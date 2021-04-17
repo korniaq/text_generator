@@ -1,1 +1,1 @@
-# text_generator
+A simple project from https://hyperskill.org/projects/134 developed in aim to practise coding in Python as well as learn the basics od Machine Learning. The program is taught on the Game of Thrones script, and generates random sentences using Markov chain model.
